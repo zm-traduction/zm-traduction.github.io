@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://zm-traduction.com
-title: Your Awesome Site bla
+title: Zuzana Mahutova
 email: your-email@domain.com
-author: Your Name
+author: Zuzana Mahutova
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -25,10 +25,3 @@ permalink: pretty
 #   3rd Party Settings    #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
